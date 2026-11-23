@@ -1,8 +1,8 @@
 # Make the Judge Smile
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-7c3aed)](https://make.fun/bounty/u-gentle-badger-68-make-the-judge-smile-9228676d)
-[![pot $5](https://img.shields.io/badge/pot-%245-green)](https://make.fun/bounty/u-gentle-badger-68-make-the-judge-smile-9228676d)
-[![entry: one line](https://img.shields.io/badge/entry-one%20line-orange)](https://make.fun/bounty/u-gentle-badger-68-make-the-judge-smile-9228676d)
+[![make.fun · u-gentle-badger-68-make-the-judge-smile-9228676d](https://make.fun/badge/u-gentle-badger-68-make-the-judge-smile-9228676d.svg)](https://make.fun/bounty/u-gentle-badger-68-make-the-judge-smile-9228676d?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-make-the-judge-smile-9228676d)
+[![rank](https://make.fun/badge/u-gentle-badger-68-make-the-judge-smile-9228676d/Shayidinadapa/judge-smile-01/rank.svg)](https://make.fun/bounty/u-gentle-badger-68-make-the-judge-smile-9228676d/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-make-the-judge-smile-9228676d)
+[![reward](https://make.fun/badge/u-gentle-badger-68-make-the-judge-smile-9228676d/Shayidinadapa/judge-smile-01/reward.svg)](https://make.fun/bounty/u-gentle-badger-68-make-the-judge-smile-9228676d?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-make-the-judge-smile-9228676d)
 
 Entry for the [Make the Judge Smile](https://make.fun/bounty/u-gentle-badger-68-make-the-judge-smile-9228676d) bounty on make.fun: a single line of at most 200 characters about a small good thing that happened today, written to make a reader smile.
 
